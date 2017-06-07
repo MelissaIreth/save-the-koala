@@ -60,6 +60,34 @@ i:hover{
 	color: black;
 }
 
-.img-responsive{
-	width: 50%;
+.savekoalas{
+	padding-top: 40px;
+}
+
+.allinfo{
+	padding-top: 100px;
+}
+
+.allinfo h2, h4{
+	color: #41521F;
+}
+
+.allinfo p{
+	margin: 
+}
+
+.helpkoala{
+	background-color: #A89F68;
+	padding: 100px;
+}
+.helpkoala h4,p{
+	color: whitesmoke;
+}
+.cosita{
+	width: 100%;
+	border: 7px solid white;
+
+}
+.helpkoala h2{
+	color:#41521F;
 }
