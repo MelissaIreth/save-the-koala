@@ -1,0 +1,17 @@
+@media (max-width: 767px){
+	.eliminar .img-responsive{
+		display: none;
+	}
+	.money{
+		flex-direction: column;
+	}
+	.eucalyptus ul{
+		padding-top: 20px;
+	}
+	.eucalyptus li{
+		margin-left: -50px;
+	}
+	.cosita{
+		margin-top: 10px;
+	}
+}
